@@ -7,6 +7,8 @@ En este curso vemos de todo:
 Todos los comandos de Git
 el flujo de trabajo en GitHub
 el verdadero amor por la programacion 
+Creado por el increible platzi team. 
+
 
 
 **Este read.me md es un ejemplo**
