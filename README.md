@@ -8,7 +8,7 @@ Todos los comandos de Git
 el flujo de trabajo en GitHub
 el verdadero amor por la programacion 
 Creado por el increible platzi team. 
-
+Incluye ejemplos en Window, Linux y Mac 
 
 
 **Este read.me md es un ejemplo**
